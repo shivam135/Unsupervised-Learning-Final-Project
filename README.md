@@ -19,6 +19,4 @@ This repository contains the code and dataset for an unsupervised learning proje
 - Place the dataset images in the `data/` directory.
 - Open and run `jellyfish.ipynb` using Jupyter Notebook or Jupyter Lab.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
